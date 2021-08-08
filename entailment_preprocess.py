@@ -16,7 +16,7 @@ from string import punctuation
 import numpy as np
 from nltk import pos_tag_sents
 from nltk import word_tokenize
-import glob
+
 import re
 
 
